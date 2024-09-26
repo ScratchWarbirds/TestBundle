@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 877246032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cd88e74f74b7244cf771b17b0481952
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Cards/PeterSalemPack/James Madison copy.png
+- Assets/Cards/PeterSalemPack/Salem Witch Trials copy.png
+- Assets/Cards/PeterSalemPack/English Language copy.png
+- Assets/Cards/PeterSalemPack/George Bass copy.png
+- Assets/Cards/PeterSalemPack/Charles Robert Darwin copy.png
+- Assets/Cards/PeterSalemPack/Thailand copy.png
+- Assets/Cards/PeterSalemPack/Armistead copy.png
+- Assets/Cards/PeterSalemPack/Egypt copy.png
+- Assets/Cards/PeterSalemPack/King Ramses II copy.png
+- Assets/Cards/PeterSalemPack/Sinking of theTitanic copy.png
+- Assets/Cards/PeterSalemPack/Amelia Earhart copy.png
+- Assets/Cards/PeterSalemPack/Argentina copy.png
+- Assets/Cards/PeterSalemPack/US West Coast copy.png
+- Assets/Cards/PeterSalemPack/The Persian Immortals copy.png
+- Assets/Cards/PeterSalemPack/Chinese Warriors copy.png
+- Assets/Cards/PeterSalemPack/Theodore Roosevelt copy.png
+- Assets/Cards/PeterSalemPack/Peter Salem copy.png
+- Assets/Cards/PeterSalemPack/Vietnam copy.png
+- Assets/Cards/PeterSalemPack/Lost Among the Pharaohs copy.png
+- Assets/Cards/PeterSalemPack/Lewis Latimer copy.png
+- Assets/Cards/PeterSalemPack/Bill of Rights copy.png
+- Assets/Cards/PeterSalemPack/Isabella Baumfree copy.png
+- Assets/Cards/PeterSalemPack/Socrates copy.png
+- Assets/Cards/PeterSalemPack/Florence Nightingale copy.png
+- Assets/Cards/PeterSalemPack/Gutenberg copy.png
+- Assets/Cards/PeterSalemPack/King Ferdinand and Queen Isabella copy.png
+- Assets/Cards/PeterSalemPack/Alexander the Great copy.png
+- Assets/Cards/PeterSalemPack/Philippines copy.png
+- Assets/Cards/PeterSalemPack/Central Intelligence Agency copy.png
+- Assets/Cards/PeterSalemPack/Akashi Shiganosuke copy.png
+- Assets/Cards/PeterSalemPack/Scotland copy.png
+- Assets/Cards/PeterSalemPack/David Ricardo copy.png
+- Assets/Cards/PeterSalemPack/Queen Ahhotep copy.png
+- Assets/Cards/PeterSalemPack/Margaret Hughes copy.png
+- Assets/Cards/PeterSalemPack/Carnegie copy.png
+- Assets/Cards/PeterSalemPack/Sir Walter Scott copy.png
+- Assets/Cards/PeterSalemPack/Aaron Burr copy.png
+- Assets/Cards/PeterSalemPack/Invention of the Automobile copy.png
+- Assets/Cards/PeterSalemPack/Samurai Warriors copy.png
+- Assets/Cards/PeterSalemPack/Invention of the Printing Press copy.png
+- Assets/Cards/PeterSalemPack/Lester Gillis copy.png
+- Assets/Cards/PeterSalemPack/Martin Luther copy.png
+- Assets/Cards/PeterSalemPack/King Louis XIV copy.png
+- Assets/Cards/PeterSalemPack/John Cabot copy.png
+- Assets/Cards/PeterSalemPack/Tuskegee Airmen copy.png
+- Assets/Cards/PeterSalemPack/Renaissance copy.png
+- Assets/Cards/PeterSalemPack/Claude Monet copy.png
+- "Assets/Cards/PeterSalemPack/Vasco N\xFA\xF1ez de Balboa copy.png"
+Dependencies: []
